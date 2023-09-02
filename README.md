@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @issac-1919
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate with you to improve myself and help you improve too!
+- Hey there! I'm Issac, I'm a Data Science & ML aficionado.
+- Python | DS | ML | Stats & Probability
 
-Feel free to contact me on Instagram @bornagainbyte19
+Feel free to contact me on LinkedIn ---> www.linkedin.com/in/raja-issac-samuel-karumanchi-157194182
 <!---
 issac-1919/issac-1919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
